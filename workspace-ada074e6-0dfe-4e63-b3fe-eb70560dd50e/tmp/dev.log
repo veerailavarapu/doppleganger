@@ -1,0 +1,8 @@
+ GET / 200 in 58ms (compile: 6ms, proxy.ts: 5ms, render: 47ms)
+ GET /search 200 in 874ms (compile: 796ms, proxy.ts: 8ms, render: 70ms)
+ GET /history 200 in 690ms (compile: 637ms, proxy.ts: 4ms, render: 49ms)
+ GET /auth/login 200 in 586ms (compile: 508ms, proxy.ts: 4ms, render: 74ms)
+ GET /auth/sign-up 200 in 639ms (compile: 577ms, proxy.ts: 5ms, render: 58ms)
+ GET / 200 in 67ms (compile: 4ms, proxy.ts: 5ms, render: 58ms)
+ GET /search 200 in 76ms (compile: 10ms, proxy.ts: 4ms, render: 61ms)
+ GET /history 200 in 51ms (compile: 5ms, proxy.ts: 4ms, render: 43ms)
