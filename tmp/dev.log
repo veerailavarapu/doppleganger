@@ -1,0 +1,2 @@
+ GET / 200 in 62ms (compile: 7ms, proxy.ts: 8ms, render: 48ms)
+ GET / 200 in 56ms (compile: 6ms, proxy.ts: 5ms, render: 45ms)
